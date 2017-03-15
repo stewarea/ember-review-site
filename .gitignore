@@ -7,7 +7,7 @@
 # dependencies
 /node_modules
 /bower_components
-build/*.js
+
 # misc
 /.sass-cache
 /connect.lock
@@ -15,9 +15,3 @@ build/*.js
 /libpeerconnection.log
 npm-debug.log*
 testem.log
-
-.env.deploy.*
-
-.env.deploy.*
-
-.env.deploy.*
